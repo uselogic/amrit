@@ -1,0 +1,6 @@
+                                                GIT HUB TUTORIAL
+1-ist add file
+2-commit
+3-remote add
+4-push
+5-enjoy
